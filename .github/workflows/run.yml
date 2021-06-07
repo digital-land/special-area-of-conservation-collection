@@ -44,12 +44,6 @@ jobs:
         git remote set-url origin https://${DLB_BOT_USERNAME}:${DLB_BOT_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         git checkout ${GITHUB_REF##*/}
 
-    - name: Update makerules
-      run: make makerules
-
-    - name: Commit updated makerules
-      run: make commit-makerules
-
     - name: Install dependencies
       run: make init
 
