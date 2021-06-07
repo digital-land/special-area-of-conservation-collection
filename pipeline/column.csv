@@ -1,0 +1,5 @@
+pipeline,resource,pattern,value
+special-area-of-conservation,,WKT,geometry
+special-area-of-conservation,,GIS_DATE,start-date
+special-area-of-conservation,,OBJECTID,geography
+special-area-of-conservation,,SAC_NAME,name
