@@ -18,3 +18,8 @@ var/
 
 # ignore updated specification files
 specification/
+
+# stored in s3
+collection/resource/
+transformed/
+dataset/
