@@ -1,5 +1,5 @@
-pipeline,resource,pattern,value
+dataset,resource,column,field
 special-area-of-conservation,,WKT,geometry
 special-area-of-conservation,,GIS_DATE,start-date
-special-area-of-conservation,,OBJECTID,special-area-of-conservation
+special-area-of-conservation,,OBJECTID,reference
 special-area-of-conservation,,SAC_NAME,name

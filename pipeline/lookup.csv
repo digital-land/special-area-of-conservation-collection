@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 special-area-of-conservation,,government-organisation:PB202,1,14800000
 special-area-of-conservation,,government-organisation:PB202,2,14800001
 special-area-of-conservation,,government-organisation:PB202,3,14800002
