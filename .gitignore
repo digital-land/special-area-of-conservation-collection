@@ -22,4 +22,7 @@ specification/
 # stored in s3
 collection/resource/
 transformed/
-dataset/
+dataset/# files built from the collection
+collection/log.csv
+collection/resource.csv
+collection/pipeline.mk
