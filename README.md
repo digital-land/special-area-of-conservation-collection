@@ -1,4 +1,4 @@
-# special-area-of-conservation collection
+# special-area-of-conservation collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/special-area-of-conservation/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/special-area-of-conservation-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/special-area-of-conservation-collection/actions/workflows/run.yml)
